@@ -430,6 +430,9 @@ html {
 
 /* Responsive */
 @media (max-width: 1200px) {
+  #section-1 img{
+    width: 100vw;
+  }
   .services {
     height: auto;
     flex-wrap: wrap;
